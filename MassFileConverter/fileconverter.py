@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import filedialog
 
 #non-tkinter implementation
-#folderpath = r'C:\Users\Victor\Desktop\Projects\MassFileConverter\testfiles'
+#folderpath = r'C:\Users\'
 #extfrom = ".cbz"
 #extto = ".zip"
 
