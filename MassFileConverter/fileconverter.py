@@ -1,4 +1,4 @@
-#Personal Mass file conversion (w/ basic GUI) with base python libraries written by me, Victor Deng
+#Personal Mass file conversion (w/ basic GUI) with base python libraries
 #TODO Maybe make extfrom and extto be buttons MAYBE there are a ton of file extensions.....so maybe not
 import os
 import sys
